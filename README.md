@@ -17,8 +17,10 @@
 <img src="https://scontent-iev1-1.xx.fbcdn.net/v/t1.18169-9/12645184_1329918330367674_3974461978504992100_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=973b4a&_nc_ohc=I07D-nt5HREAX_XYthd&_nc_oc=AQlBUDsjyNlR_2p4he6wXZiqMGxMg11pVCwOwCQQUZFUB_CoYAUXy6y1lae6RUiFEVU&_nc_ht=scontent-iev1-1.xx&oh=00_AfB5J5XM_CTwdMyFEl5vW_9MPPuvhzSH-wMICrNFiEOM8g&oe=643D1D4A"width="280px" height="260px"/>
 <img src="https://scontent-iev1-1.xx.fbcdn.net/v/t1.18169-9/12647165_1329918347034339_5517580735220774091_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=HxcaQvb9D2sAX9AxoI1&_nc_ht=scontent-iev1-1.xx&oh=00_AfBWqxmnw3NtqMWZgzvwLXfgryjvL4R8oX0a2mwbGfA3Vg&oe=643D5AAC"width="300px" height="270px"/>
 
-<img src="https://scontent-iev1-1.xx.fbcdn.net/v/t1.18169-9/12592551_1329918357034338_9041256244515240708_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=cZ3nS_O-518AX-aK4mw&_nc_ht=scontent-iev1-1.xx&oh=00_AfCGCNv7j7EyJNGpbGIgojUwrkx8nPfabD1QG0vCZOzY7g&oe=643D4E26"width="300px" height="270px"/>
-<img src="https://scontent-iev1-1.xx.fbcdn.net/v/t1.18169-9/12592551_1329918357034338_9041256244515240708_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=cZ3nS_O-518AX-aK4mw&_nc_ht=scontent-iev1-1.xx&oh=00_AfCGCNv7j7EyJNGpbGIgojUwrkx8nPfabD1QG0vCZOzY7g&oe=643D4E26"width="300px" height="270px"/>
+<img src="https://scontent-iev1-1.xx.fbcdn.net/v/t1.18169-9/12592551_1329918357034338_9041256244515240708_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=cZ3nS_O-518AX-aK4mw&_nc_ht=scontent-iev1-1.xx&oh=00_AfCGCNv7j7EyJNGpbGIgojUwrkx8nPfabD1QG0vCZOzY7g&oe=643D4E26 width="300px" height="270px"/>
+    
+<img src="https://scontent-iev1-1.xx.fbcdn.net/v/t1.18169-9/12592551_1329918357034338_9041256244515240708_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=cZ3nS_O-518AX-aK4mw&_nc_ht=scontent-iev1-1.xx&oh=00_AfCGCNv7j7EyJNGpbGIgojUwrkx8nPfabD1QG0vCZOzY7g&oe=643D4E26 width="300px" height="270px"/>
+    
 <footer style="background-color:#f4fff5;" >
 <p style="font-size:29px">наші соцмережі</p>
   <p style="font-size:19px"> <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjw0qqj-OX9AhWxwQIHHZh1BdQQFnoECCYQAQ&url=https%3A%2F%2Fwww.instagram.com%2Fmothers_bread%2F&usg=AOvVaw2yp_Gt9IRIoIAjv8gc5jWi">інстаграм</a></p>
